@@ -1,10 +1,13 @@
-# real-time-web
+# Real-time-web
+
+Real-time chat, where you an join by username and start communicating directly.
+**This is a work in progress!**
 
 Deployed app:
 
-https://pierman1-chat.herokuapp.com/
+https://real-time-chat-app.herokuapp.com/.herokuapp.com/
 
-(nog geen enkele opmaak)!!!
+(nog geen enkele opmaak)!!! (dat komt eraan!)
 
 
 ### Set it up
