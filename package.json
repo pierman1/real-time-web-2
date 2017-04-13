@@ -1,0 +1,16 @@
+{
+  "name": "real-time-web-2",
+  "version": "1.0.0",
+  "description": "A real time application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^1.7.3",
+    "browserify": "^14.1.0"
+  }
+}

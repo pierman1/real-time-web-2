@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>RTW2</title>
+
+</head>
+<body>
+
+
+<section class="section-login">
+    <form action="" class="login-form">
+        <legend>Login</legend>
+        <input id="login" autocomplete="off" /><button>login</button>
+    </form>
+</section>
+
+
+<section class="section-chat">
+    <div id="messageList"></div>
+    <form action="" class="chat-form">
+        <legend>Chat</legend>
+        <input id="msg" autocomplete="off" /><button>Send</button>
+    </form>
+</section>
+
+<script src="/socket.io/socket.io.js"></script>
+<script src="/app.js"></script>
+
+</body>
+</html>
