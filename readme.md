@@ -5,7 +5,7 @@ Real-time chat, where you an join by username and start communicating directly.
 
 Deployed app:
 
-https://real-time-chat-app.herokuapp.com/.herokuapp.com/
+https://real-time-chat-app.herokuapp.com/
 
 (nog geen enkele opmaak)!!! (dat komt eraan!)
 
